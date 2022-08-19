@@ -1,0 +1,17 @@
+apple: I am red in color and im a fruit
+ball: I am round in shape and people use me to play
+cat: I am an animal 
+dell: I am a laptop brand
+elephant: People call me haathi
+short: Which word becomes shorter when you add 2 letters to it?
+fan: By switching me on in summer , you will get relaxed
+gun: I am a relative of bullet
+hen: KFC , and what else do you need as a hint 
+iphone: I am an expensive phone
+second: You’re in a race and you pass the person in second place. What place are you in now?
+w: What is at the end of the rainbow?
+relationship: What kind of ship has two mates but no captain?
+postoffice: What two words, added together, contain the most letters?
+pillow: I am higher without a head. 
+joke: I can be cracked, I can be made. I can be told, I can be played. What am I?
+age: What goes up but never comes down?
