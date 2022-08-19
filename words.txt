@@ -1,9 +1,0 @@
-apple: I am red in color and im a fruit
-ball: I am round in shape and people use me to play
-cat: I am an animal 
-dell: I am a laptop brand
-elephant: People call me haathi
-fan: By switching me on in summer , you will get relaxed
-gun: I am a relative of bullet
-hen: KFC , and what else do you need as a hint 
-iphone: I am an expensive phone
